@@ -1,3 +1,4 @@
+// [두번째풀이] 반복문 한번만 돌도록...
 function solution(players, callings) {
   const playerMap = {}; // 플레이어 이름을 인덱스로 매핑
   for (let i = 0; i < players.length; i++) {
